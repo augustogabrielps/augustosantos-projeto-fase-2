@@ -55,10 +55,3 @@ src/
 - Todos os dados vêm do **JSONPlaceholder** (e de um JSON Server de apoio para fotos estendidas).
 - Todas as telas pedidas no enunciado da atividade foram implementadas: lista de usuários, álbuns, fotos e detalhe da foto.
 
-## Licença
-
-MIT
-
----
-
-Se quiser, posso adicionar instruções para rodar no Android/iOS com o Expo Go, ou preparar um pequeno relatório com telas e comentários.

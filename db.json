@@ -1,0 +1,18 @@
+{
+  "photos": [
+    {
+      "albumId": 1,
+      "id": 1,
+      "title": "Foto 1",
+      "url": "https://picsum.photos/id/1015/600/400",
+      "thumbnailUrl": "https://picsum.photos/id/1015/150/100"
+    },
+    {
+      "albumId": 1,
+      "id": 2,
+      "title": "Foto 2",
+      "url": "https://picsum.photos/id/1016/600/400",
+      "thumbnailUrl": "https://picsum.photos/id/1016/150/100"
+    }
+  ]
+}
